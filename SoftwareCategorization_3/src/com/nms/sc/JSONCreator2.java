@@ -24,9 +24,9 @@ import com.nms.sc.beans.Category;
 import com.nms.sc.beans.Item;
 
 public class JSONCreator2 {
-	public static final String categoriesPath = "D:/Nasirrepository/SoftwareChoices/WebContent/Software_categories.txt";
-	public static final String itemsPath = "D:/Nasirrepository/SoftwareChoices/WebContent/Software_items.json";
-	public static final String csvFilePath = "D:/Nasirrepository/SoftwareChoices/WebContent/SoftwareTechnologiesGrouping.csv";
+	public static final String categoriesPath = "C:/Users/nasiruddin.shaikh/git/softwarecategorization_3/SoftwareCategorization_3/lib/Software_categories.txt";
+	public static final String itemsPath = "C:/Users/nasiruddin.shaikh/git/softwarecategorization_3/SoftwareCategorization_3/lib/Software_items.json";
+	public static final String csvFilePath = "C:/Users/nasiruddin.shaikh/git/softwarecategorization_3/SoftwareCategorization_3/lib/SoftwareTechnologiesGrouping.csv";
 	public static HashMap<String,String> pathMap = new HashMap<String,String>();
 	public static List<Category> categories = new ArrayList<Category>();
 	
